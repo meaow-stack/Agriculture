@@ -114,7 +114,27 @@ India has **diverse agro-climatic zones**, and SmartCrop offers region-specific 
 ![Screenshot 2024-11-17 121454](https://github.com/user-attachments/assets/523f4200-7208-4a6d-b5f6-37cacdaff35e)
 ![Screenshot 2024-11-17 121351](https://github.com/user-attachments/assets/0f893072-ec4c-4810-b381-a5d0cfea30b5)
 ![Screenshot 2024-11-17 112544](https://github.com/user-attachments/assets/7a029c8c-77b8-46e7-8d0d-840c28ece73c)
-
+![Screenshot 2024-11-17 123351](https://github.com/user-attachments/assets/861ed060-2c5b-4b30-94cf-2587694009de)
+![Screenshot 2024-11-17 122818](https://github.com/user-attachments/assets/eea937d9-651f-48fa-b9ba-bbec598776c6)
+![Screenshot 2024-11-17 121645](https://github.com/user-attachments/assets/36217759-f2d5-41b6-b01e-45adc20b7afe)
+![Screenshot 2024-11-17 121607](https://github.com/user-attachments/assets/5bbec840-2a3c-4b4a-a25d-17a96b7e2cef)
+![Screenshot 2024-11-17 121531](https://github.com/user-attachments/assets/4d3fc984-c18c-4fb1-ae57-d3bfce7633b6)
+![Screenshot 2024-11-17 121454](https://github.com/user-attachments/assets/89b0adc4-cd1a-4d02-858c-968711719315)
+![Screenshot 2024-11-17 121351](https://github.com/user-attachments/assets/ea0107cc-a3fb-42c4-b385-5952990c8ef1)
+![Screenshot 2024-11-17 112544](https://github.com/user-attachments/assets/63b4b26d-cfef-4be6-bbaf-50ef2ad085a5)
+![Screenshot 2024-11-16 132202](https://github.com/user-attachments/assets/91decf09-89d8-4c3c-8103-ab110c498883)
+![Screenshot 2024-11-16 131329](https://github.com/user-attachments/assets/67364689-bdaa-4e2c-bfe6-4029c0f0809c)
+![Screenshot 2024-11-16 131205](https://github.com/user-attachments/assets/c6732b2b-ba73-4663-b776-ab1400613d0b)
+![Screenshot 2024-11-16 131115](https://github.com/user-attachments/assets/9cbdd2a9-9529-4b1f-ab01-726f28452e0f)
+![Screenshot 2024-11-16 130913](https://github.com/user-attachments/assets/b6a75343-c14d-417e-8c7c-3ae8b3ed1920)
+![Screenshot 2024-11-16 130107](https://github.com/user-attachments/assets/ab68ff75-1838-4dde-b882-dc90a2359f9a)
+![Screenshot 2024-11-16 130002](https://github.com/user-attachments/assets/380f46b9-9dc6-44fb-8bc4-331a95df05a7)
+![Screenshot 2024-11-16 125834](https://github.com/user-attachments/assets/a02e9844-ff7b-4b90-b802-39278d8bab5b)
+![Screenshot 2024-11-16 125801](https://github.com/user-attachments/assets/9ac597a8-3cf6-48eb-acf4-9c57a2bbb2d1)
+![Screenshot 2024-11-16 125750](https://github.com/user-attachments/assets/94913b73-9700-4f96-b18b-63eb8c2284f5)
+![Screenshot 2024-11-16 125650](https://github.com/user-attachments/assets/24f1f180-c0cf-41c1-b593-ddfe78efb3a3)
+![Screenshot 2024-11-16 125132](https://github.com/user-attachments/assets/fd6cb56e-373b-46fa-8b65-6fd6cc025376)
+![Screenshot 2024-11-16 124734](https://github.com/user-attachments/assets/0b859d17-ec6a-4efa-8d15-dd50e0fea066)
 ```bash
 
 
@@ -222,34 +242,5 @@ Let me know if you'd like:
 
 I'm happy to help with those next!
 
-HERE ARE FEW SCREENSHOTS
-
-![Screenshot 2024-11-17 123351](https://github.com/user-attachments/assets/bed921fb-4f7e-4359-91b9-bbe0b7194df0)
-![Screenshot 2024-11-16 132202](https://github.com/user-attachments/assets/4f5f132a-d0e2-4e34-b4a9-5e393670505f)
-![Screenshot 2024-11-16 131329](https://github.com/user-attachments/assets/eb487460-8df9-436a-88bb-b5878a300c7f)
-![Screenshot 2024-11-16 131205](https://github.com/user-attachments/assets/b8bfe24b-dfb8-41b7-abc0-6424ab871488)
-![Screenshot 2024-11-16 131115](https://github.com/user-attachments/assets/887e2f12-834b-4cdc-8043-b645961530b0)
-![Screenshot 2024-11-16 130913](https://github.com/user-attachments/assets/53699356-0072-4e81-859b-3ba61092c297)
-![Screenshot 2024-11-16 130107](https://github.com/user-attachments/assets/70c11c76-b53b-49c5-824f-c6c059dea1c5)
-![Screenshot 2024-11-16 130002](https://github.com/user-attachments/assets/165ab8e6-7391-4dcc-ade8-061bc5a480bb)
-![Screenshot 2024-11-16 125834](https://github.com/user-attachments/assets/7fb4e916-0c07-4a9b-8ff2-c5013466f56d)
-![Screenshot 2024-11-16 125801](https://github.com/user-attachments/assets/c7683c8c-5a04-4e6b-a36e-2aa7f89a97ff)
-![Screenshot 2024-11-16 125750](https://github.com/user-attachments/assets/ce5cf40e-b87e-4d03-b20d-216e63704e40)
-![Screenshot 2024-11-16 125650](https://github.com/user-attachments/assets/170d49b4-c70c-44c9-8320-fd436a6a9aee)
-![Screenshot 2024-11-16 125132](https://github.com/user-attachments/assets/8d347366-0e98-4fb3-bdbe-914355ef67e2)
-![Screenshot 2024-11-16 124734](https://github.com/user-attachments/assets/c1ad4076-0f57-4d99-b9e6-8ff3a3b3974c)
-![Screenshot 2024-11-16 124646](https://github.com/user-attachments/assets/f6f0eede-649c-42fa-a818-24e4d9606ce5)
-![Screenshot 2024-09-04 144847](https://github.com/user-attachments/assets/d6a5031d-fa73-4b3a-a560-83f462c299d5)
-![Screenshot 2024-09-04 144147](https://github.com/user-attachments/assets/dc95160d-d8cc-4ee6-aad8-a9f0cd52059e)
-![Screenshot 2024-09-04 143244](https://github.com/user-attachments/assets/9ab919c8-c4f6-4c95-8309-b5ddf66e5bf1)
-![Screenshot 2024-09-04 143229](https://github.com/user-attachments/assets/b0f77dca-a552-4ee5-83d9-07c538cb42b8)
-![Screenshot 2024-09-04 130833](https://github.com/user-attachments/assets/e6ca1ad0-7125-452a-b805-630dd33daca7)
-![Screenshot 2024-09-04 130741](https://github.com/user-attachments/assets/2a6baa85-02ee-482b-b673-8230a11a83e4)
-![Screenshot 2024-09-04 124650](https://github.com/user-attachments/assets/91d90ad4-37e5-4083-a2ad-2e9d0dc301e9)
-![Screenshot 2024-09-04 124431](https://github.com/user-attachments/assets/d5660cc0-fa29-4770-930a-2987aa6bc3f5)
-![Screenshot 2024-09-04 124403](https://github.com/user-attachments/assets/37a188f7-f28d-4da1-adb1-119081f701d8)
-![Screenshot 2024-09-04 124337](https://github.com/user-attachments/assets/2ea51b06-5ecb-498b-8c9e-f8887cc254ca)
-![Screenshot 2024-09-04 124221](https://github.com/user-attachments/assets/8000fd42-916f-4a98-81b3-f820bbbdff1b)
-![Screenshot 2024-09-04 123340](https://github.com/user-attachments/assets/0388a77b-3e82-4e07-b00a-7ea446cac9e1)
 
 
