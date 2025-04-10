@@ -1,11 +1,13 @@
 from fastapi import FastAPI, File, UploadFile
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 import io
+from fastapi.middleware import cors
+import matplotlib.pyplot as plt
 
 app = FastAPI()
 
@@ -71,6 +73,31 @@ def predict_crop(request: PredictionRequest):
     predicted_crop = label_encoder_item.inverse_transform(prediction)[0]
     
     return JSONResponse(content={"predicted_crop": predicted_crop})
+
+@app.get("/feature-importance/")
+def get_feature_importance():
+    global rf_classifier, X_columns
+    
+    # Check if the model is trained
+    if rf_classifier is None:
+        return JSONResponse(content={"error": "Model is not trained."}, status_code=400)
+
+    # Get feature importances
+    feature_importances = rf_classifier.feature_importances_
+    
+    # Plot histogram
+    plt.figure(figsize=(10, 6))
+    plt.barh(X_columns, feature_importances, color='skyblue')
+    plt.xlabel('Feature Importance')
+    plt.title('Feature Importance for Random Forest Classifier')
+
+    # Save the plot to a BytesIO object
+    img_bytes = io.BytesIO()
+    plt.savefig(img_bytes, format='png')
+    img_bytes.seek(0)
+    
+    # Return the image as a response
+    return StreamingResponse(img_bytes, media_type="image/png")
 
 if __name__ == "__main__":
     import uvicorn
