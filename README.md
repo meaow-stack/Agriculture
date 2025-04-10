@@ -21,18 +21,21 @@
 
 ---
 
-## 📦 Tech Stack
+## 🧰 Tech Stack
 
-| Layer         | Technology                       |
-|--------------|----------------------------------|
-| **Frontend** | React.js, Bootstrap 5, Axios     |
-| **Backend**  | Python, Streamlit, Pandas        |
-| **ML Model** | RandomForestClassifier (sklearn) |
-| **Styling**  | Bootstrap + Custom SCSS          |
-| **Mode**     | Dark/Light Toggle                |
-| **Storage**  | JSON for feedback, CSV for data  |
+| Layer         | Tech Used                                              |
+|---------------|--------------------------------------------------------|
+| **Frontend**  | React.js, Bootstrap 5, Material UI, SweetAlert2        |
+| **Backend**   | Python, Streamlit, Pandas                              |
+| **ML Model**  | RandomForestClassifier (scikit-learn)                  |
+| **Styling**   | SCSS, Bootstrap, Material UI themes                    |
+| **Alerts**    | SweetAlert2 (SWL) for user confirmations               |
+| **Storage**   | JSON (for reviews), CSV (for datasets)                 |
 
 ---
+### 📊 Accuracy:
+Achieved **~95% accuracy** on test data, with effective handling of outliers and missing values.
+
 
 ## 🧠 ML Algorithm
 
